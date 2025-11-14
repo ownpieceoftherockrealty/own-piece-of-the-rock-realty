@@ -1,1 +1,1 @@
-// Header component placeholder
+// Header placeholder

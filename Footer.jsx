@@ -1,1 +1,1 @@
-// Footer component placeholder
+// Footer placeholder

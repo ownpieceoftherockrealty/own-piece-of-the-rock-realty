@@ -1,1 +1,1 @@
-// Homepage — You will paste your homepage code here
+// Homepage placeholder

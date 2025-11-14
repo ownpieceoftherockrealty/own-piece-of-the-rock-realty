@@ -1,1 +1,1 @@
-// Sell Your Property page — form goes here
+// Sell page placeholder
